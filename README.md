@@ -1,6 +1,6 @@
 # esp32can_demo
  * For use with CAN-Bus FeatherWing 
- * http://skpang.co.uk/catalog/canbus-featherwing-for-esp32-p-1556.html
+ https://www.skpang.co.uk/collections/can-bus-boards/products/can-bus-featherwing-for-esp32
  * 
  * and ESP-32 Feather board
- * http://skpang.co.uk/catalog/adafruit-huzzah32-esp32-feather-board-p-1530.html
+https://www.skpang.co.uk/products/adafruit-huzzah32-esp32-feather-board?_pos=2&_sid=b264a7f8c&_ss=r
